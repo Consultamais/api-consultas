@@ -17,7 +17,7 @@ Setamos o método diretamente em uma variável.
 ```
 
 # Parametros enviados na requisição
-Para realizar a consulta é necessário o envio do [ID da consulta](#-Lista-das-consultas), e o número do documento a ser consultado. <br>
+Para realizar a consulta é necessário o envio do [ID da consulta](#lista-das-consultas), e o número do documento a ser consultado. <br>
 ```
 6    $idConsulta = 00;
 7    $documento = 00000000000;
