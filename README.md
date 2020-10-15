@@ -216,6 +216,7 @@ Content-Type	application/json
 ```
 
 # Lista das consultas
+- ID 68 - [Consulta Essencial Positivo CPF](https://consultamais.com.br/essencial-positivo/)
 - ID 56 - [Consulta Básica CPF](https://consultamais.com.br/basica/)
 - ID 57 - [Consulta Essencial CPF](https://consultamais.com.br/consulta-essencial/)
 - ID 58 - [Consulta Completa CPF](https://consultamais.com.br/consulta-completa/)
@@ -227,6 +228,7 @@ Content-Type	application/json
 - ID 64 - [Consulta Risco CNPJ](https://consultamais.com.br/consulta-risco/)
 - ID 65 - [Consulta Cadastro CNPJ](https://consultamais.com.br/cadastro-cnpj/)
 - ID 66 - [Consulta Relatório Analítico Nacional CNPJ](https://consultamais.com.br/relatorio-analitico-nacional/)
+
 
 # Outras informações
 Todas as suas consultas ficam salvas.
